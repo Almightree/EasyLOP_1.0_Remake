@@ -1,0 +1,17 @@
+## Interface: 50001
+## Title: EasyLOP
+## Author: Redfang, Bleucheese, and Perya
+## Version: 1.4.6
+## Notes: Administers loot announcements and distribution using LOP3 Updated to 5.0.4 by Almightree
+## eMail: sykus@comcast.net
+## URL: http://www.dreamflyr.com
+## X-Embeds: Ace2
+## X-Category: Interface Enhancements
+## OptionalDeps: Ace2
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: EasyLOPDB
+EasyLOP.xml
+embeds.xml
+EasyLOP.lua
+Leftovers_Points.lua
